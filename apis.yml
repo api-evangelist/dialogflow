@@ -1,0 +1,32 @@
+aid: dialogflow
+name: Dialogflow
+description: "Natural Language Processing"
+url: https://cloud.google.com/dialogflow/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Dialogflow
+    description: "Natural Language Processing"
+    humanURL: https://cloud.google.com/dialogflow/docs/
+    baseURL: https://cloud.google.com/dialogflow/docs/
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://cloud.google.com/dialogflow/docs/
+common:
+  - type: Website
+    url: https://cloud.google.com/dialogflow/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
